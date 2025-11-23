@@ -1,0 +1,7 @@
+{
+  "name": "MaternalCare AI",
+  "description": "A maternal support chatbot prototype demonstrating Intent Routing and RAG (Personal vs. Global Medical Knowledge) using Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
