@@ -63,6 +63,21 @@ Sehat Saathi is a voice-first, offline-capable AI assistant designed to bridge t
   - **Voice:** Web Speech API
   - **Database:** Firebase/NoSQL
 
+## Artifacts 
+- **Chat Interface:** <img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/c2bf9ecc-a68b-47be-b0b7-6d3a6a8741dc" />
+<br><br>
+- **Native Language Support:** <img width="1514" height="763" alt="image" src="https://github.com/user-attachments/assets/296159c3-0a4c-43cf-bfaf-0a23ac88b1f7" />
+<br><br>
+- **ASHA Dashboard:** <img width="1919" height="700" alt="image" src="https://github.com/user-attachments/assets/a14ab639-ce85-4ed0-8dc4-92076be8922a" />
+<br><br>
+- **All Patient Records:** <img width="1919" height="573" alt="image" src="https://github.com/user-attachments/assets/8f0941a3-d42b-4e9e-9bfc-3df6171f14f0" />
+<br><br>
+- **View Patient History:** <img width="1893" height="680" alt="image" src="https://github.com/user-attachments/assets/6149a822-18f4-4ecd-b7fc-127806449138" />
+
+
+
+
+
 -----
 
 *Built for the GHCI 2025 (THEME 3: AI For Social Impact).*
